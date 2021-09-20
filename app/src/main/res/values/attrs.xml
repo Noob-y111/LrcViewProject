@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LrcView">
+        <attr name="highlightLineColor" format="color"/>
+        <attr name="normalLineColor" format="color"/>
+        <attr name="highlightLineSize" format="dimension"/>
+        <attr name="normalLineSize" format="dimension"/>
+        <attr name="lineHeight" format="dimension"/>
+        <attr name="centerLineColor" format="color"/>
+        <attr name="centerLineWidth" format="dimension"/>
+    </declare-styleable>
+</resources>
